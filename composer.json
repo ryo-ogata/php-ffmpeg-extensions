@@ -1,5 +1,5 @@
 {
-  "name": "sharapov/php-ffmpeg-extensions",
+  "name": "ryo-ogata/php-ffmpeg-extensions",
   "description": "An extensions library for the PHP FFMpeg (https://github.com/PHP-FFMpeg/PHP-FFMpeg)",
   "license": "GPL-3.0",
   "type": "library",
