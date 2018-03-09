@@ -29,7 +29,6 @@
     }
   ],
   "require": {
-    "php": ">=5.4"
   },
   "suggest": {
     "php-ffmpeg/extras": "A compilation of common audio & video drivers for PHP-FFMpeg"
